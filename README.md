@@ -54,17 +54,20 @@ Flowchart:
 output:
 
 Music Loop System
+
 Loop 1:
 Playing: Song A
 Playing: Song B
 Playing: Song C
 Playing: Song D
 
+
 Loop 2:
 Playing: Song A
 Playing: Song B
 Playing: Song C
 Playing: Song D
+
 
 Loop 3:
 Playing: Song A
