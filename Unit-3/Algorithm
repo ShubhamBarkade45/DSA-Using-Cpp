@@ -1,1 +1,11 @@
+Algorithm:
+
+Start.
+Create a circular linked list node containing the song name.
+Add songs to the playlist.
+Connect the last node back to the first node.
+Display the songs starting from the first song.
+After reaching the last song, move back to the first song.
+Repeat the playlist for the required number of loops.
+Stop.
 
