@@ -1,0 +1,15 @@
+Start the program.
+Create an empty BST.
+Enter the number of nodes and their values.
+Insert the values into the BST.
+Display the BST using inorder traversal.
+Enter the number of deletion attempts.
+Input the key to delete.
+Search for the specified key.
+If the key does not exist, display an error message.
+If the key is not a leaf node, display a message.
+If the key is a leaf node, delete it.
+Display the updated BST after each attempt.
+Repeat until all deletion attempts are completed.
+Display the final BST.
+Stop the program.
