@@ -1,0 +1,11 @@
+Start the program.
+Create an empty Binary Search Tree.
+Insert the given elements into the BST.
+Display the BST using inorder traversal.
+Enter the value of the leaf node to be deleted.
+Search for the specified node.
+Check whether the node has no children.
+If it is a leaf node, delete it and return NULL.
+If it is not a leaf node, display a message.
+Display the updated BST using inorder traversal.
+Stop the program.
