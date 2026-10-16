@@ -1,0 +1,3 @@
+
+To write a C++ program to delete multiple specified leaf nodes from a Binary Search Tree (BST), 
+display the tree before and after deletion, and handle invalid keys or non-leaf nodes.
