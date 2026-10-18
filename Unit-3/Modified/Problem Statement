@@ -1,1 +1,1 @@
-fe
+To develop a music loop system using a circular linked list in C++. Using a circular linked list, create a playlist of songs and play them repeatedly in a different random order during each loop.
