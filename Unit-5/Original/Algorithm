@@ -1,1 +1,11 @@
-dfh
+Start the program.
+Accept the number of metro stations.
+Assign a name or number to each station.
+Initialize the adjacency matrix with zeros.
+Accept the number of direct connections between stations.
+For each connection, set matrix[i][j] = 1 and matrix[j][i] = 1.
+Display the adjacency matrix.
+Accept the station number selected by the user.
+Check the corresponding row of the matrix.
+Display all stations whose matrix value is 1.
+Stop the program.
