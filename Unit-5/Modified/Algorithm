@@ -1,1 +1,11 @@
-gsb
+Start the program.
+Accept the number of metro stations and direct track connections.
+Initialize the adjacency matrix with zeros.
+Enter each track connection and update the matrix in both directions.
+Display a menu with options to display the matrix, add a station, remove a track, calculate degrees, or exit.
+If the user selects Add Station, expand the matrix and enter connections to existing stations.
+If the user selects Remove Track, enter two station numbers and set their corresponding matrix values to zero.
+If the user selects Display Degree, calculate the sum of each matrix row and display it.
+Repeat the menu until the user selects Exit.
+Stop the program.
+
