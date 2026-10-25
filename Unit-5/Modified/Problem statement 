@@ -1,0 +1,1 @@
+To develop and modify a C++ program that represents metro stations as vertices and direct track connections as undirected edges using an adjacency matrix. The program should allow the user to add a new metro station with its track connections, remove a closed track link and update the matrix, and calculate and display the degree of each station.
