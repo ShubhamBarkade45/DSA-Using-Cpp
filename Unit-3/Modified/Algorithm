@@ -1,1 +1,11 @@
-qew
+Start the program.
+Create a circular linked list to store songs.
+Add songs to the playlist.
+Check whether the playlist is empty.
+Copy all song names into a vector.
+Initialize a random number generator.
+Shuffle the songs randomly for each loop.
+Display the songs in the shuffled order.
+Repeat the process for the specified number of loops.
+Delete all nodes and free the memory.
+Stop the program.
