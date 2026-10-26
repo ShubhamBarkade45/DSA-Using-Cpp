@@ -1,1 +1,3 @@
-To develop a C++ program that represents metro stations as vertices and direct track connections as undirected edges. The program uses an adjacency matrix to store the graph, accepts station connections from the user, displays the adjacency matrix, and identifies all stations directly connected to a selected station.
+To develop a C++ program that represents metro stations as vertices and direct track connections as undirected edges.
+The program uses an adjacency matrix to store the graph, accepts station connections from the user, 
+displays the adjacency matrix, and identifies all stations directly connected to a selected station.
